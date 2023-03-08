@@ -1,0 +1,3 @@
+ Crie uma classe Pessoa com o método realizarAtividade(), que pode ser
+sobrescrito pelas subclasses Aluno e Professor para realizar atividades
+específicas de cada uma.

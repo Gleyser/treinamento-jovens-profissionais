@@ -1,0 +1,4 @@
+Crie uma interface Forma com o método calcularArea(). Em seguida, crie as
+classes Retangulo e Circulo, que implementam a interface Forma de forma
+diferente e possuem um método desenhar() que utiliza o método calcularArea()
+para exibir a área da figura.

@@ -1,0 +1,9 @@
+ Considere que temos o objeto Produto que contém os seguintes parâmetros: nome (String) e  preço (BigDecimal) com os métodos Get/Set/ToString. Crie códigos Java que realiza as seguintes operações (pode ser feito tudo em umas única classe):
+Cria um produto (exemplo: Leite custando R$1,50)
+Cria um ArrayList de Produto.
+Adiciona três  produtos criados por você no array criado anteriormente.
+Pesquisar pelo produto “leite” no array criado na letra b.
+Imprimir o nome de todos os produtos que custam mais que R$1,00.
+Imprimir o nome de todos os produtos que custam mais que R$1,00 e menos que R$2,00.
+Imprimir o nome de todos os produtos que custam até R$2,00.
+Imprimir o nome de todos os produtos cadastrados.

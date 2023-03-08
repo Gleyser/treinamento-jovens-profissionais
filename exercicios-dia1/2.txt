@@ -1,0 +1,3 @@
+Crie uma classe Pessoa com os atributos nome e idade. Em seguida, crie as
+subclasses Aluno e Professor, que herdam de Pessoa e possuem atributos
+específicos, como matrícula e disciplina, respectivamente.
