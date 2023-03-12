@@ -1,0 +1,3 @@
+Crie uma interface Veiculo com os métodos acelerar(), frear() e virar(). Em
+seguida, crie as classes Carro e Moto, que implementam a interface Veiculo de
+forma diferente

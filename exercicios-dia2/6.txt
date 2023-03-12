@@ -1,0 +1,3 @@
+ Crie uma classe Animal que possua um método emitirSom(). Em seguida, crie
+as subclasses Cachorro, Gato e Passaro, que herdam de Animal e implementam
+o método emitirSom() de forma diferente.

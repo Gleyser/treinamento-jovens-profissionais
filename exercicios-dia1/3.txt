@@ -1,3 +1,1 @@
-Crie uma interface Veiculo com os métodos acelerar(), frear() e virar(). Em
-seguida, crie as classes Carro e Moto, que implementam a interface Veiculo de
-forma diferente
+Leia esse artigo https://www.geeksforgeeks.org/how-to-implement-a-strategy-pattern-using-enum-in-java/ e implemente um exemplo ou conclua o que iniciamos em sala.

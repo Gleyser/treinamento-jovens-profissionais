@@ -1,3 +1,14 @@
- Crie uma classe Animal que possua um método emitirSom(). Em seguida, crie
-as subclasses Cachorro, Gato e Passaro, que herdam de Animal e implementam
-o método emitirSom() de forma diferente.
+- Crie uma classe Main e nela inclua o método main e os métodos a seguir.
+
+- Crie um método que ler um número inteiro do teclado (public static int lerNumeros() {})
+
+- Crie um método que recebe um número inteiro como parâmetro  (public static boolean ehPar(int numero) {}) e retorna true se o numero for par e false caso contrario.
+
+- Crie um método que recebe um número inteiro como parâmetro  (public static boolean geraSequencia(int numero) {}) e imprime todos os números maiores que o valor recebeido como parâmetro até o valor 100. Exemplo: entrada com o valor 98, deve imprimir os números 99 e 100.
+
+- Crie um método que recebe um número inteiro como parâmetro  (public static boolean geraSequenciaOmitindoImpares(int numero) {}) e imprime todos os números maiores que o valor recebeido como parâmetro até o valor 100, porém omite os números ímpares. Exemplo: entrada com o valor 94, deve imprimir os números 96, 98 e 100.
+
+
+
+
+
