@@ -4,9 +4,9 @@
 
 - Crie um método que recebe um número inteiro como parâmetro  (public static boolean ehPar(int numero) {}) e retorna true se o numero for par e false caso contrario.
 
-- Crie um método que recebe um número inteiro como parâmetro  (public static boolean geraSequencia(int numero) {}) e imprime todos os números maiores que o valor recebeido como parâmetro até o valor 100. Exemplo: entrada com o valor 98, deve imprimir os números 99 e 100.
+- Crie um método que recebe um número inteiro como parâmetro  (public static void geraSequencia(int numero) {}) e imprime todos os números maiores que o valor recebeido como parâmetro até o valor 100. Exemplo: entrada com o valor 98, deve imprimir os números 99 e 100.
 
-- Crie um método que recebe um número inteiro como parâmetro  (public static boolean geraSequenciaOmitindoImpares(int numero) {}) e imprime todos os números maiores que o valor recebeido como parâmetro até o valor 100, porém omite os números ímpares. Exemplo: entrada com o valor 94, deve imprimir os números 96, 98 e 100.
+- Crie um método que recebe um número inteiro como parâmetro  (public static void geraSequenciaOmitindoImpares(int numero) {}) e imprime todos os números maiores que o valor recebeido como parâmetro até o valor 100, porém omite os números ímpares. Exemplo: entrada com o valor 94, deve imprimir os números 96, 98 e 100.
 
 
 
