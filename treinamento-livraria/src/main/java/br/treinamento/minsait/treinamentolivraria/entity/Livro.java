@@ -15,7 +15,7 @@ public class Livro {
 	
 	private String titulo;
 	private int ano;
-	private int quantidade;	
+	private int quantidade;
 	
 	public Livro(String titulo, int ano, int quantidade) {
 		
